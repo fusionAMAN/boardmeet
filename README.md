@@ -1,4 +1,3 @@
-# FOSS-HACK-2025-Team- The Elite-Kanpur
 
 # 📸 Screenshots & Demo
 # website URL: (https://charming-chebakia-38d373.netlify.app/)
@@ -14,7 +13,12 @@
 
 #  BoardMeet - Real-time Whiteboard & Video Calling for Two Users 🎨🎥
 🚀 BoardMeet is a real-time collaborative whiteboard and one-on-one video conferencing application. It enables two users to draw, communicate, and brainstorm visually in an interactive session.
-Built using Node.js, Express, Socket.io, and WebRTC, BoardMeet ensures low-latency communication for a seamless experience.
+Built using:
+>Node.js,
+>Express,
+>Socket.io,
+>and WebRTC,
+>BoardMeet ensures low-latency communication for a seamless experience.
 
 
 # ✨ Features
@@ -43,16 +47,16 @@ Hosting: Deployed on Heroku/Vercel/Render
 # 🚀 Installation & Setup
 # 🔧 Backend Setup
  * Clone the repository
-   git clone https://github.com/your-username/BoardMeet.git
+   > git clone https://github.com/fusionAMAN/boardmeet.git
 
 *  Navigate to the project directory
-   cd BoardMeet
+   > cd BoardMeet
 
 *  Install dependencies
-   npm install
+   > npm install
 
 * Start the server
-  node server.js
+  > node server.js
 
 
 # 🛠 API Endpoints
