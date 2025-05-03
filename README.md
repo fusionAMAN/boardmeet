@@ -14,10 +14,10 @@
 #  BoardMeet - Real-time Whiteboard & Video Calling for Two Users 🎨🎥
 🚀 BoardMeet is a real-time collaborative whiteboard and one-on-one video conferencing application. It enables two users to draw, communicate, and brainstorm visually in an interactive session.
 Built using:
->Node.js,
->Express,
->Socket.io,
->and WebRTC,
+* Node.js
+* Express
+* Socket.io
+* WebRTC
 >BoardMeet ensures low-latency communication for a seamless experience.
 
 
