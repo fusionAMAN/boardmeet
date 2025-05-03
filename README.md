@@ -38,10 +38,10 @@ Built using:
 
 
 # 🛠️ Tech Stack
-Backend: Node.js, Express, Socket.io
-Real-Time Communication: WebRTC, Socket.io
-Frontend (Deployed At): Netlify
-Hosting: Deployed on Heroku/Vercel/Render
+* Backend: Node.js, Express, Socket.io
+* Real-Time Communication: WebRTC, Socket.io
+* Frontend (Deployed At): Netlify
+* Hosting: Deployed on Heroku/Vercel/Render
 
 
 # 🚀 Installation & Setup
