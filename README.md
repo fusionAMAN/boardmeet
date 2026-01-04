@@ -1,15 +1,27 @@
 
-# 📸 Screenshots & Demo
-# website URL: https://charming-chebakia-38d373.netlify.app/
-# Demo URL: https://www.youtube.com/watch?v=wLLyXFKPubA
-![WhatsApp Image 2025-02-19 at 10 31 34 PM](https://github.com/user-attachments/assets/c141a9c8-304d-4496-abd0-cbaa6dc9be01)
-![WhatsApp Image 2025-02-19 at 10 31 35 PM](https://github.com/user-attachments/assets/9c37b00a-22ac-47fd-a952-9084b0897e3a)
-![WhatsApp Image 2025-02-19 at 10 31 34 PM (1)](https://github.com/user-attachments/assets/77df9466-c3fb-4525-bdb0-84f752c83760)
-![image](https://github.com/user-attachments/assets/2e783d95-80c7-4053-8070-b30bcbdb7690)
-![WhatsApp Image 2025-02-19 at 10 32 26 PM](https://github.com/user-attachments/assets/96fbbb7a-0a3c-4137-81da-9e130e9b7ec1)
-![WhatsApp Image 2025-02-19 at 10 31 37 PM](https://github.com/user-attachments/assets/87ee0289-fde8-4819-94e0-238eb9bd46ad)
-![WhatsApp Image 2025-02-19 at 10 31 36 PM (1)](https://github.com/user-attachments/assets/5fd1e9bc-44b8-4cf6-ba81-cdf015d02db5)
-![image](https://github.com/user-attachments/assets/8e8fa5b2-dc24-4c61-bac9-4cc9394b75af)
+## 📸 Screenshots & Demo
+
+### 🔗 Live Website
+https://charming-chebakia-38d373.netlify.app/
+
+### 🎥 Demo Video
+https://www.youtube.com/watch?v=wLlyXFKPubA
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/77df9466-c3fb-4525-bdb0-84f752c83760" width="300"/>
+
+  <br/><br/>
+
+  <img src="https://github.com/user-attachments/assets/2e783d95-80c7-4053-8070-b30bcbdb7690" width="300"/>
+  <img src="https://github.com/user-attachments/assets/96fbbb7a-0a3c-4137-81da-9e130e9b7ec1" width="300"/>
+
+
+  <br/><br/>
+
+  <img src="https://github.com/user-attachments/assets/5fd1e9bc-44b8-4cf6-ba81-cdf015d02db5" width="300"/>
+  <img src="https://github.com/user-attachments/assets/8e8fa5b2-dc24-4c61-bac9-4cc9394b75af" width="300"/>
+</div>
+
 
 
 
